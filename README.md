@@ -43,6 +43,7 @@ I specialize in designing and developing user-centered, accessible, and high-per
 ---
 
 ### 🎨 Health Analytics Dashboard (Full-Stack Web App)
+🔗 https://www.physioage.com/
 **Tech:** Ruby on Rails, React, Chart.js, D3.js  
 
 **Highlights:**
@@ -90,17 +91,23 @@ I specialize in designing and developing user-centered, accessible, and high-per
 
 ## 🛠️ Skills
 
-**Frontend:**  
+**Frontend Development:**  
 HTML5, CSS3, JavaScript, React, Angular  
+
+**Web Design & UX:**  
+UI/UX Design, Navigation Design, Page Layouts, Responsive Design, Accessibility (WCAG 2.1)  
 
 **Backend:**  
 Ruby on Rails, Python (Flask), Node.js  
 
-**Design & Web:**  
-Responsive Design, UI/UX Principles, SEO Optimization  
+**Web & Marketing Tools:**  
+WordPress, SEO Optimization, Content Management Systems  
 
-**Tools:**  
+**Tools & Platforms:**  
 Git, GitHub, Postman, JIRA  
+
+**Concepts:**  
+Cross-Browser Compatibility, REST APIs, Agile/Scrum, Performance Optimization 
 
 ---
 
