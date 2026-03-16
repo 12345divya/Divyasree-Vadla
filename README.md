@@ -44,6 +44,7 @@ I specialize in designing and developing user-centered, accessible, and high-per
 
 ### 🎨 Health Analytics Dashboard (Full-Stack Web App)
 🔗 https://www.physioage.com/
+
 **Tech:** Ruby on Rails, React, Chart.js, D3.js  
 
 **Highlights:**
