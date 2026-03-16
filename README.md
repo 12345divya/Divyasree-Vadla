@@ -125,7 +125,7 @@ Cross-Browser Compatibility, REST APIs, Agile/Scrum, Performance Optimization
 
 - LinkedIn: https://www.linkedin.com/in/divya-sree-vadla  
 - Email: divyavadla25@gmail.com  
-- GitHub: https://github.com/yourusername  
+- GitHub: https://github.com/12345divya 
 
 ---
 
